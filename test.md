@@ -16,6 +16,8 @@ layout: default
 | 名前        | IoTと言えば？          | SNS |
 |:-------------|:------------------|:------|
 | こぐれ           | アイ | [![twitter](http://ap-land.com/wp-content/uploads/2014/09/sns.jpg)](https://twitter.com/iot_algyan)  |
-| takasehideki           | コワクナイヨ | [![twitter](http://ap-land.com/wp-content/uploads/2014/09/sns.jpg)](https://twitter.com/TAKASEhideki)   |
+| こぐれ           | アイ | [![twitter](/img/twitter.png)](https://twitter.com/iot_algyan)  |
+| takasehideki           | コワクナイヨ | [![twitter](img/twitter.png)](https://twitter.com/TAKASEhideki)   |
+| takasehideki           | コワクナイヨ | [![twitter](./img/twitter.png)](https://twitter.com/TAKASEhideki)   |
 
 [![twitter](http://ap-land.com/wp-content/uploads/2014/09/sns.jpg)](https://twitter.com/TAKASEhideki)  
