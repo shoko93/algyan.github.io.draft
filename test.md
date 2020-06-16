@@ -10,21 +10,6 @@ layout: default
 
 てすとぺーじだよんさまんさたばさ
 
-バグをしこむ
-
-[twitter](http://ap-land.com/wp-content/uploads/2014/09/sns.jpg](https://twitter.com/iot_algyan 
-
-- a
-  - b 
-    - c
-      - d
-        - e
-          - f
-            - g 
-              - h
-                - i
-                  - j
-
 
 
 | 名前        | IoTと言えば？          | SNS |
