@@ -12,7 +12,18 @@ layout: default
 
 バグをしこむ
 
-[![twitter](http://ap-land.com/wp-content/uploads/2014/09/sns.jpg](https://twitter.com/iot_algyan 
+[twitter](http://ap-land.com/wp-content/uploads/2014/09/sns.jpg](https://twitter.com/iot_algyan 
+
+- a
+  - b 
+    - c
+      - d
+        - e
+          - f
+            - g 
+              - h
+                - i
+                  - j
 
 
 
