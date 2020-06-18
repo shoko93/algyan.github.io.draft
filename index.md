@@ -32,13 +32,15 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 ![connpass](/img/connpass.png)
 ](https://algyan.connpass.com/)
 
-てすとぺーじだよん
-
 # SNS
 
 てすとぺーじだよん
 
 てすと
+
+## ご支援（カンパ・ご協賛）のお願い
+
+[こちらのページ](/Donation)をご覧ください
 
 # Members
 
@@ -56,5 +58,4 @@ IoTあるじゃんの素敵な仲間たちを掲載しています！
 | お名前      | 場所    | あなたにとってIoTとは？          | SNS |
 |:------------|:------------------|:------------------|:------|
 | あるじゃん  | 地球    | こんなのあるじゃん、<br>いいことあるじゃん！ | [![github](img/github.png)](https://github.com/algyan) [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN)   |
-
 
