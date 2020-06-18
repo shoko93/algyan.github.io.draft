@@ -49,19 +49,14 @@ IoTなアプリの開発やハンズオンのコンテンツ作りに参加し�
 
 <a href="https://github.com/algyan"><img src="./img/GitHub-Mark-120px-plus.png" width="30%" alt="github"></a>
 
-| [Facebook](https://www.facebook.com/groups/ioytjp/)      | [Twitter](https://twitter.com/IOT_ALGYAN) | [GitHub](https://github.com/algyan) |
-|:------------|:------------------|:------------------|
-| グループに参加してわくわくする情報を交換しよう！ | フォローして最新情報をチェック！ハッシュタグは [#ALGYAN](https://twitter.com/search?q=%23algyan&src=typed_query) | IoTなアプリの開発やハンズオンのコンテンツ作りに参加しよう！ |
-| <a href="https://www.facebook.com/groups/ioytjp/"><img src="./img/f_logo_RGB-Hex-Blue_512.png" width="30%" alt="facebook"></a> | <a href="https://twitter.com/IOT_ALGYAN"><img src="./img/Twitter_Social_Icon_Circle_Color.png" width="30%" alt="twitter"></a> | <a href="https://github.com/algyan"><img src="./img/GitHub-Mark-120px-plus.png" width="30%" alt="github"></a> |
-
 ## ご支援（カンパ・ご協賛）のお願い
 
 [こちらのページ](Donation)をご覧ください
 
 # Members
 
-IoTあるじゃんの素敵な仲間たちを掲載しています！  
-ご自身の情報を掲載したい方は[こちらの資料(準備中)]()に従って追加希望をお知らせください。
+IoTあるじゃんの素敵な仲間たちを紹介しています！  
+ご自身の情報を掲載したい方は、[こちらの資料(準備中)]()に従ってGitHubでPull Requestをお送りください。
 
 <!--
 ・お１人ずつ１行でコピペして編集してください（改行が入ると表のレイアウトが崩れます^^;
