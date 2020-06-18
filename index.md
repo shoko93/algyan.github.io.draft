@@ -2,9 +2,10 @@
 layout: default
 ---
 
+# IoT ALGYAN 公式Webサイト
+
 ![algyan](/img/algyan.jpg)
 
-# IoT ALGYAN 公式Webサイト
 
 IoT ALGYAN は、<font color="red" size="5">IoTを学べる最強コミュニティ</font>です。
 
