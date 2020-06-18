@@ -4,9 +4,6 @@ layout: default
 
 # IoT ALGYAN 公式Webサイト
 
-![algyan](/img/algyan.jpg)
-
-
 IoT ALGYAN は、<font color="red" size="5">IoTを学べる最強コミュニティ</font>です。
 
 ALGYANとは「All Gadget Your Alliance and Network」を略した造語です。  
