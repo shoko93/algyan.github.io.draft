@@ -33,7 +33,7 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 
 ## Facebook
 
-グループに参加してIoTな情報を交換しよう！
+グループに参加してわくわくする情報を交換しよう！
 
 <a href="https://www.facebook.com/groups/ioytjp/"><img src="./img/f_logo_RGB-Hex-Blue_512.png" width="30%" alt="facebook"></a>　
 
@@ -45,7 +45,7 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 
 ## GitHub
 
-IoTなシステムの開発やハンズオンのコンテンツ作りなどに参加しよう！
+IoTなアプリの開発やハンズオンのコンテンツ作りに参加しよう！
 
 <a href="https://github.com/algyan"><img src="./img/GitHub-Mark-120px-plus.png" width="30%" alt="twitter"></a>
 
