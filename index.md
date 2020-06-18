@@ -41,7 +41,7 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 
 ### Twitter
 
-フォローして最新情報をチェック！ハッシュタグは [#ALGYAN](https://twitter.com/search?q=%23algyan&src=typed_query)
+フォローして最新情報をチェック！ハッシュタグは [#ALGYAN](https://twitter.com/search?q=%23ALGYAN&src=typed_query)
 
 <a href="https://twitter.com/IOT_ALGYAN"><img src="./img/Twitter_Social_Icon_Circle_Color.png" width="30%" alt="twitter"></a>
 
