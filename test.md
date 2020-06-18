@@ -2,11 +2,11 @@
 layout: default
 ---
 
+## test
+
 # IoTあるじゃん
 
 てすと
-
-## test
 
 てすとぺーじだよんさまんさたばさ
 
@@ -18,7 +18,7 @@ layout: default
 
 
 
-# IoTあるじゃん
+# IoTあれ
 
 てすと
 
