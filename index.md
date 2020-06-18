@@ -31,9 +31,17 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 
 # SNS
 
-最新情報をチェック！
+## Facebook
 
-| あるじゃん  | 地球    | こんなのあるじゃん、<br>いいことあるじゃん！ | [![github](img/GitHub-32px.png)](https://github.com/algyan) [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN)   |
+グループに参加してIoTな情報を交換しよう！
+
+<a href="https://www.facebook.com/groups/ioytjp/"><img src="./img/f_logo_RGB-Hex-Blue_512.png" width="30%" alt="facebook"></a>　
+
+# Twitter
+
+フォローして最新情報をチェック！ハッシュタグは [#ALGYAN](https://twitter.com/search?q=%23algyan&src=typed_query)
+
+<a href="https://twitter.com/IOT_ALGYAN"><img src="./img/Twitter_Social_Icon_Circle_Color.png" width="60%" alt="twitter"></a>
 
 ## ご支援（カンパ・ご協賛）のお願い
 
