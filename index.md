@@ -62,11 +62,11 @@ IoTあるじゃんの素敵な仲間たちを紹介しています！
 ・お１人ずつ１行でコピペして編集してください（改行が入ると表のレイアウトが崩れます^^;
 ・お名前はハンドルネームなどでも構いません
 ・場所は住んでいるところや出没地など！
-・あなたにとってIoTとは？ひと言お寄せください（セル内で改行を入れたい場合は<br>です）
 ・SNSは、GitHub・Facebook・Twitterに対応しています。持っていないもの／掲載したくないものは消してください。
+・あなたにとってIoTとは？ひと言お寄せください（セル内で改行を入れたい場合は<br>です）
 -->
 
-| お名前      | 場所    | あなたにとってIoTとは？          | SNS |
-|:------------|:------------------|:------------------|:------:|
-| あるじゃん  | 地球    | こんなのあるじゃん、<br>いいことあるじゃんいいことあるじゃんいいことあるじゃんいいことあるじゃんいいことあるじゃんいいことあるじゃんいいことあるじゃんいいことあるじゃん！！！！！！！！いいことあるじゃん！ | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   |
+| お名前      | 場所    | SNS | あなたにとってIoTとは？ |
+|:------------|:------|:---------:|:------|
+| あるじゃん  | 地球    | [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN) [![github](img/github.png)](https://github.com/algyan)   | こんなのあるじゃん、<br>いいことあるじゃんいいことあるじゃんいいことあるじゃんいいことあるじゃんいいことあるじゃんいいことあるじゃんいいことあるじゃんいいことあるじゃん！！！！！！！！いいことあるじゃん！ |
 
