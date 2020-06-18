@@ -1,7 +1,5 @@
 ---
 layout: default
-title: IoTあるじゃん
-description: ご支援（カンパ・ご協賛）のお願い
 ---
 
 # ご支援（カンパ・ご協賛）のお願い
