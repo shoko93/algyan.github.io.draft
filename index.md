@@ -26,11 +26,22 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 「[IoT つくるよ！2 〜みんなで盛り上げるIoT博覧祭〜](https://www.tsukuruyo.net/)」にて  
 （2019年11月30日(土) 開催 ＠ [情報科学専門学校](http://isc.iwasaki.ac.jp/index.html)）
 
-## test
+# イベント情報
+
+[イベントページはこちら https://algyan.connpass.com/
+![connpass](/img/connpass.png)
+](https://algyan.connpass.com/)
 
 てすとぺーじだよん
 
-### るるるう
+# SNS
+
+
+てすとぺーじだよん
+
+## ご支援（カンパ・ご協賛）のお願い
+
+
 
 てすと
 
