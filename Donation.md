@@ -8,8 +8,6 @@ description: ご支援（カンパ・ご協賛）のお願い
 
 ![algyan](/img/algyan.jpg)
 
-## test
-
 ご存じの通り、IoT ALGYAN は極めて積極的な活動を全国展開しています。  
 2019年1月〜12月実績で計56回のイベントを企画しました。  
 [https://algyan.connpass.com](https://algyan.connpass.com)  
