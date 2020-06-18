@@ -34,14 +34,14 @@ PayPay ID「algyan」
 
 <p>
 <a href="https://qr.paypay.ne.jp/S19GnZ1yiuMHCwRe" target="blank">
-<img src="./img/paypay.jpg" />
+<img src="./img/paypay.jpg" widht="50%">
 </a>
 </p>
 
 <p>
 <a href="https://qr.paypay.ne.jp/S19GnZ1yiuMHCwRe" target="blank">
-https://qr.paypay.ne.jp/S19GnZ1yiuMHCwRe
-</a>
+https://qr.paypay.ne.jp/S19GnZ1yiuMHCwRe</a>
+<br>
 <font color="orange">※URLが無効と表示される場合は、お手数ですがPayPay ID</font><font color="red">「algyan」</font><font color="orange">を手入力してください。</font>
 </p>
 </div>
