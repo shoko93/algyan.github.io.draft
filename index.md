@@ -43,11 +43,11 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 # Members
 
 IoTあるじゃんの素敵な仲間たちを掲載しています！  
-ご自身の情報を追加したい方は[こちらの資料(準備中)]()に従って掲載希望をお知らせください。
+ご自身の情報を掲載したい方は[こちらの資料(準備中)]()に従って追加希望をお知らせください。
 
 <!--
-・お１人ずつ１行で、改行は入れないでください
-・お名前はハンドルネームなどでも構いません！
+・お１人ずつ１行でコピペして編集してください（改行が入ると表のレイアウトが崩れます^^;
+・お名前はハンドルネームなどでも構いません
 ・場所は住んでいるところや出没地など！
 ・あなたにとってIoTとは？ひと言お寄せください（改行は<br>です）
 ・SNSは、GitHub・Facebook・Twitterに対応しています。持っていないもの／掲載したくないものは消してください。
@@ -55,6 +55,7 @@ IoTあるじゃんの素敵な仲間たちを掲載しています！
 
 | お名前      | 場所    | あなたにとってIoTとは？          | SNS |
 |:------------|:------------------|:------------------|:------|
-| あるじゃん  | 地球    | こんなのあるじゃん、<br>いいことあるじゃん！ | [![github](img/github.png)](https://github.com/algyan) [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN)   |
+| あるじゃん  | 地球    | こんなのあるじゃん、<br>
+いいことあるじゃん！ | [![github](img/github.png)](https://github.com/algyan) [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN)   |
 
 
