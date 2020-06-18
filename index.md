@@ -2,9 +2,11 @@
 layout: default
 ---
 
-# IoTあるじゃん
+# IoTあるよ
 
 てすと
+
+![algyan](/img/algyan.jpg)
 
 ## test
 
