@@ -1,8 +1,10 @@
 ---
 layout: default
+title: IoT ALGYAN 公式Webサイト
+description: IoTあるじゃん
 ---
 
-# IoT ALGYAN 公式Webサイト
+## IoT ALGYAN 公式Webサイト
 
 IoT ALGYAN は、<font color="red" size="5">IoTを学べる最強コミュニティ</font>です。
 
@@ -23,37 +25,37 @@ IoTを学びリードしようという意識の高い技術者が集合した�
 「[IoT つくるよ！2 〜みんなで盛り上げるIoT博覧祭〜](https://www.tsukuruyo.net/)」にて  
 （2019年11月30日(土) 開催 ＠ [学校法人 岩崎学園 情報科学専門学校](http://isc.iwasaki.ac.jp/index.html)）
 
-# イベント情報
+## イベント情報
 
 [イベントページはこちら https://algyan.connpass.com/
 ![connpass](/img/connpass.png)
 ](https://algyan.connpass.com/)
 
-# SNS
+## SNS
 
-## Facebook
+### Facebook
 
 グループに参加してわくわくする情報を交換しよう！
 
 <a href="https://www.facebook.com/groups/ioytjp/"><img src="./img/f_logo_RGB-Hex-Blue_512.png" width="30%" alt="facebook"></a>　
 
-## Twitter
+### Twitter
 
 フォローして最新情報をチェック！ハッシュタグは [#ALGYAN](https://twitter.com/search?q=%23algyan&src=typed_query)
 
 <a href="https://twitter.com/IOT_ALGYAN"><img src="./img/Twitter_Social_Icon_Circle_Color.png" width="30%" alt="twitter"></a>
 
-## GitHub
+### GitHub
 
 IoTなアプリの開発やハンズオンのコンテンツ作りに参加しよう！
 
 <a href="https://github.com/algyan"><img src="./img/GitHub-Mark-120px-plus.png" width="30%" alt="github"></a>
 
-## ご支援（カンパ・ご協賛）のお願い
+### ご支援（カンパ・ご協賛）のお願い
 
 [こちらのページ](Donation)をご覧ください
 
-# Members
+## Members
 
 IoTあるじゃんの素敵な仲間たちを紹介しています！  
 ご自身の情報を掲載したい方は、[こちらの資料(準備中)]()に従ってGitHubでPull Requestをお送りください。
