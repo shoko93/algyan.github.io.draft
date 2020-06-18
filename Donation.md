@@ -66,8 +66,6 @@ https://qr.paypay.ne.jp/S19GnZ1yiuMHCwRe
 内容によって５ランクから選択可能です（年間１０万円〜２００万円）。  
 賛助会員企業のお申込みには別途審査がありますので別途ご連絡ください。
 
-<div style="text-align: center;">
 連絡先　小暮	info[at]algyan.net （→[at]を＠に置き換えてください）
-</div>
 
 [homeに戻る](index)
