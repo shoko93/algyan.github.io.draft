@@ -1,7 +1,7 @@
 ---
 layout: default
-title: IoT ALGYAN 公式Webサイト
-description: ご支援（カンパ・ご協賛）のお願い
+title: ご支援（カンパ・ご協賛）のお願い
+description: IoTあるじゃん
 ---
 
 ## ご支援（カンパ・ご協賛）のお願い
