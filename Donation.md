@@ -34,7 +34,7 @@ PayPay ID「algyan」
 
 <p>
 <a href="https://qr.paypay.ne.jp/S19GnZ1yiuMHCwRe" target="blank">
-<img src="./img/paypay.jpg" widht="50%">
+<img src="./img/paypay.jpg" width="50%">
 </a>
 </p>
 
