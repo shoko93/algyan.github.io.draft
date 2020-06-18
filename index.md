@@ -49,9 +49,10 @@ IoTなアプリの開発やハンズオンのコンテンツ作りに参加し�
 
 <a href="https://github.com/algyan"><img src="./img/GitHub-Mark-120px-plus.png" width="30%" alt="github"></a>
 
-| お名前      | 場所    | あなたにとってIoTとは？ |
+| [Facebook](https://www.facebook.com/groups/ioytjp/)      | [Twitter](https://twitter.com/IOT_ALGYAN) | [GitHub](https://github.com/algyan) |
 |:------------|:------------------|:------------------|
-| <a href="https://github.com/algyan"><img src="./img/GitHub-Mark-120px-plus.png" width="30%" alt="github"></a> | <a href="https://github.com/algyan"><img src="./img/GitHub-Mark-120px-plus.png" width="30%" alt="github"></a> | <a href="https://github.com/algyan"><img src="./img/GitHub-Mark-120px-plus.png" width="30%" alt="github"></a> |
+| グループに参加してわくわくする情報を交換しよう！ | フォローして最新情報をチェック！ハッシュタグは [#ALGYAN](https://twitter.com/search?q=%23algyan&src=typed_query) | IoTなアプリの開発やハンズオンのコンテンツ作りに参加しよう！ |
+| <a href="https://www.facebook.com/groups/ioytjp/"><img src="./img/f_logo_RGB-Hex-Blue_512.png" width="30%" alt="facebook"></a> | <a href="https://twitter.com/IOT_ALGYAN"><img src="./img/Twitter_Social_Icon_Circle_Color.png" width="30%" alt="twitter"></a> | <a href="https://github.com/algyan"><img src="./img/GitHub-Mark-120px-plus.png" width="30%" alt="github"></a> |
 
 ## ご支援（カンパ・ご協賛）のお願い
 
