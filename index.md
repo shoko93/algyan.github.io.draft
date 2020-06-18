@@ -55,7 +55,6 @@ IoTあるじゃんの素敵な仲間たちを掲載しています！
 
 | お名前      | 場所    | あなたにとってIoTとは？          | SNS |
 |:------------|:------------------|:------------------|:------|
-| あるじゃん  | 地球    | こんなのあるじゃん、<br>
-いいことあるじゃん！ | [![github](img/github.png)](https://github.com/algyan) [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN)   |
+| あるじゃん  | 地球    | こんなのあるじゃん、<br>いいことあるじゃん！ | [![github](img/github.png)](https://github.com/algyan) [![facebook](img/facebook.png)](https://facebook.com/groups/ioytjp/) [![twitter](img/twitter.png)](https://twitter.com/IOT_ALGYAN)   |
 
 
